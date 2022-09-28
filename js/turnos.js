@@ -81,7 +81,7 @@ function auxCarga(turno) {
       auxInicial++;
     }
 
-    if (auxInicial > aux.length) {
+    if (auxInicial > turnos.length) {
       confirmo();
     }
   } else {
